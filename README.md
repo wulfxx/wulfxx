@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wulfxx
+- 👀 I’m interested in programming Discord Bots and Android Applications
+- 🌱 I’m currently learning Kotlin
